@@ -10,7 +10,8 @@
 |-------|---------|
 | Title | El Donia Warda – The World is a Rose |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 23, 2026 |
+| Lyric Writing Date | April 20, 2026 |
+| Song Page | [Open Song Page](https://imabusayed.github.io/el-donia-warda-the-world-is-a-rose/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
 
@@ -18,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا وردة الدنيا في ليلي الحزين
+> أشم عطرك في هواء الحنين
+> نورك يضيء عتمة السنين
+> روحي تناديك بصوت الأنين
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
